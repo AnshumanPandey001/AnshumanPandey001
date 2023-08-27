@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AnshumanPandey001/AnshumanPandey001/output/snake.svg" alt="Snake animation" />
+
 
 ###
 <!---
